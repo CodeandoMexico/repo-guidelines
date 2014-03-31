@@ -23,7 +23,7 @@ _Section to talk about the difference between authors and contributors._ Example
 Authors are contributors that had the original idea and usually responsible for the initial bulk commits.
 
 ### Contributors
-People who have contributed with code changes, documentation or bug fixes to the project, only by submitting a pull request. They should be ordered by initial contribution date in the CONTRIBUTORS.md file.
+People who have contributed with code changes, documentation or bug fixes to the project, only by submitting a pull request. They should be ordered by initial contribution date in the [CONTRIBUTORS.md](/CONTRIBUTORS.md) file.
 
 ### Core Team
 Responsible for development and maintenance of the project. In charge of responding to pull requests and leading discussion about the project. In our case, they are usually members of Codeando México.
