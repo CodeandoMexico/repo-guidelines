@@ -1,7 +1,7 @@
 Repo Guidelines
 ============
 
-Repo Guidelines is a set of rules that help to structure a project before releasing it to the open source community.
+Repo Guidelines is a set of recommendations that help to structure a project before releasing it to the open source community.
 
 ##Dependencies
 This section must have a complete list of all the dependencies required to run the project.
