@@ -29,12 +29,12 @@ Optional section. In case you want to keep tabs on the impact of your initial pr
 ##Contribute
 Section to explain how to contribute to your project. Must add link to the CONTRIBUTING.md file. Example:
 
-We want this project to be the result of a community effort. You can collaborate with [code](https://github.com/CodeandoMexico/repo-guidelines/pulls), [ideas](https://github.com/CodeandoMexico/repo-guidelines/issues) and [bugs](https://github.com/CodeandoMexico/repo-guidelines/issues). Read our [CONTRIBUTE](/CONTRIBUTE) file.
+We want this project to be the result of a community effort. You can collaborate with [code](https://github.com/CodeandoMexico/repo-guidelines/pulls), [ideas](https://github.com/CodeandoMexico/repo-guidelines/issues) and [bugs](https://github.com/CodeandoMexico/repo-guidelines/issues). Read our [CONTRIBUTE](/CONTRIBUTE.md) file.
 
 ##Core Team
 List the core team members that are responsible for development and maintenance of this project. Add reference to their github profiles. Example:
 
-This project is an initiative of [Codeando México](https://github.com/CodeandoMexico?tab=members).
+This project is an initiative of [Codeando México](http://www.codeandomexico.org).
 The core team:
 - [Braulio Chávez](https://github.com/HackerOfDreams)
 - [Eduardo Salinas](https://github.com/lalo)
@@ -44,6 +44,6 @@ Section to add the license. The default license is AGPL-3.0. Might vary dependin
 
 Available under the license: GNU Affero General Public License (AGPL) v3.0. Read the document [LICENSE](/LICENSE) for more information
 
-Created by [Codeando México](https://github.com/CodeandoMexico?tab=members), 2014.
+Created by [Codeando México](http://www.codeandomexico.org), 2014.
 
 ![alt text](http://blog.codeandomexico.org/images/logo.png "Codeando México")
