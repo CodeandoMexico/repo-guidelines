@@ -18,12 +18,12 @@ Optional section. Add some cool screenshots of your project. Highly recommended.
 ##Demo
 Optional section. A link to a running demo of your project.
 
-##¿Questions or issues?
+##Questions or issues?
 This section describes how other developers and users should interact with your project. Here's an example:
 
 We keep the project's conversation in our issues page [issues](https://github.com/CodeandoMexico/repo-guidelines/issues). If you have any other question you can reach us at <equipo@codeandomexico.org>.
 
-##¿Using our code? We'd love to know
+##Using our code? We'd love to know
 Optional section. In case you want to keep tabs on the impact of your initial project or later do a gallery of other projects that were based on yours.
 
 ##Contribute
