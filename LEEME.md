@@ -1,4 +1,4 @@
-Repo Guidelines
+Repo Guidelines ([english](/README.md))
 ============
 
 Repo Guidelines es un conjunto de recomendaciones que ayudan a estructurar un proyecto antes de liberarlo a la comunidad de código abierto.
