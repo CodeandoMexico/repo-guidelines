@@ -1,4 +1,4 @@
-Repo Guidelines
+Repo Guidelines ([español](/LEEME.md))
 ============
 
 Repo Guidelines is a set of recommendations that help to structure a project before releasing it to the open source community.
