@@ -34,9 +34,9 @@ Queremos que este proyecto sea el resultado de un esfuerzo de la comunidad. Uste
 ##Core Team
 Indique los miembros del equipo principal que son responsables del desarrollo y mantenimiento de este proyecto. Añadir una referencia a sus perfiles de GitHub. Ejemplo:
 
-Este proyecto es una iniciativa de [Codeando MÃ©xico](http://www.codeandomexico.org).
+Este proyecto es una iniciativa de [Codeando México](http://www.codeandomexico.org).
 El core team:
-- [Braulio ChÃ¡vez](https://github.com/HackerOfDreams)
+- [Braulio Chávez](https://github.com/HackerOfDreams)
 - [Eduardo Salinas](https://github.com/lalo)
 
 ##Licencia
@@ -44,6 +44,6 @@ Sección para agregar la licencia. La licencia por defecto es AGPL-3.0. Puede va
 
 _Available under the license: GNU Affero General Public License (AGPL) v3.0. Read the document [LICENSE](/LICENSE) for more information_
 
-Creado por [Codeando MÃ©xico](http://www.codeandomexico.org), 2014.
+Creado por [Codeando México](http://www.codeandomexico.org), 2014.
 
-![alt text](http://blog.codeandomexico.org/images/logo.png "Codeando MÃ©xico")
+![alt text](http://blog.codeandomexico.org/images/logo.png "Codeando México")
