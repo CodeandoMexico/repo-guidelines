@@ -9,7 +9,7 @@
 
 
 ## Involucrarse
-_Introducción a las diferentes formas de involucrarse con el proyecto. Reportar bugs, sugerir features o cambios o contribuyendo directamente con el código. Asegurate de definir los pasos para las diferentes maneras de contribuir._
+_Introducción a las diferentes formas de involucrarse con el proyecto. Reportando bugs, sugeriendo features o cambios o contribuyendo directamente con el código. Asegurate de definir los pasos para las diferentes maneras de contribuir._
 
 ## Discusión
 _Sección para definir dónde discutir acerca del proyecto. Es común tener
