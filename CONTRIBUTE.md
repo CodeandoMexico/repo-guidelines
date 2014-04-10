@@ -1,4 +1,4 @@
-# Contributing to repo-guidelines
+# Contributing to repo-guidelines ([español](/CONTRIBUYE.md))
 
 1. [Getting involved](#getting-involved)
 2. [Discussion](#discussion)
